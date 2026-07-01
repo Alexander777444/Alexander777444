@@ -64,7 +64,6 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexander777444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander777444&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
@@ -75,12 +74,12 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 
 <br/>
 
-## Actividad de contribuciones (generado con GitHub Actions)
+## Actividad de contribuciones
 
 
 <div align="center">
 
-<!-- Se genera automáticamente en la rama "output" al activar el Action -->
+
 <img src="https://raw.githubusercontent.com/Alexander777444/Alexander777444/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/Alexander777444/Alexander777444/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
@@ -88,16 +87,14 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 
 <br/>
 
-## Mi rincón creativo
+## Muchas gracias por ver <3
 
 <div align="center">
 
 <img src="/assets/Monorosa.gif" width="300" /> 
 <img src="/assets/OsoCode.gif" width="300" /> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**[ espacio reservado para tus GIFs ]**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
@@ -106,7 +103,4 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 <div align="center">
 
 ### "El código limpio siempre parece que fue escrito por alguien a quien le importa."
-
-<img src="https://komarev.com/ghpvc/?username=Alexander777444&label=Visitas+al+perfil&color=61DAFB&style=flat" />
-
 </div>
