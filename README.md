@@ -7,29 +7,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderbgutierrez4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pichipi2015@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexander777444)
-<!-- 🔗 Opcional: agrega aquí más redes cuando quieras (Instagram, Twitter/X, Discord, etc.)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](TU_LINK)
--->
 
 </div>
 
 <br/>
 
-## 🧑‍💻 Sobre mí
+## About me
 
-Soy **Enrique Alexander Bolaños Gutiérrez**, estudiante de 6to semestre de **Ingeniería en Ciencias de la Computación** en la **Universidad de Guadalajara** (GPA 91.00), y **Frontend Developer & UI/UX Designer** apasionado por construir aplicaciones web inclusivas, accesibles y centradas en el usuario.
+Soy **Enrique Alexander Bolaños Gutiérrez**, estudiante de 6to semestre de **Ingeniería en Ciencias de la Computación** en la **Universidad de Guadalajara**, y **Frontend Developer & UI/UX Designer** apasionado por construir aplicaciones web inclusivas, accesibles y centradas en el usuario, con el objtivo de convertirme en full stack developer.
 
-- 🌱 Mi mayor fortaleza está en el **ecosistema React**, pero tengo bases sólidas en estructuras de datos y algoritmos que me permiten adaptarme rápido a nuevas tecnologías.
-- 🎯 Combino principios de **UI/UX** con estándares estrictos de **accesibilidad web** y diseño **responsive**.
-- 📚 Actualmente cursando el **Full Stack Development Professional Certificate (IBM & Coursera)** — en progreso.
-- 🏅 Certificación **Front-End Developer** por la **Fundación Carlos Slim** (96 hrs teórico-prácticas).
-- 💼 Buscando activamente **oportunidades de prácticas profesionales (Internship)** en desarrollo de software, listo para aportar valor desde el día uno mientras domino el stack de la organización.
-- 📫 Contáctame directo en **pichipi2015@gmail.com**
+- Mi mayor fortaleza está en el **ecosistema React**, pero tengo bases sólidas en estructuras de datos y algoritmos que me permiten adaptarme rápido a nuevas tecnologías.
+- Combino principios de **UI/UX** con estándares estrictos de **accesibilidad web** y diseño **responsive**.
+- Actualmente cursando el **Full Stack Development Professional Certificate (IBM & Coursera)** — en progreso.
+- Certificación **Front-End Developer** por la **Fundación Carlos Slim** (96 hrs teórico-prácticas).
+- Buscando activamente **oportunidades de prácticas profesionales (Internship)** en desarrollo de software, listo para aportar valor desde el día uno mientras domino el stack de la organización.
+- Contáctame directo en **pichipi2015@gmail.com**
 
 <br/>
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
 <tr>
@@ -94,16 +90,10 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 
 ## Mi rincón creativo
 
-<!--
-  ✨ Aquí puedes poner tus GIFs favoritos (memes de programación, tu mascota, lo que quieras).
-  Solo reemplaza el link de abajo por el de tu GIF (puedes subirlo a este mismo repo en una carpeta /assets
-  o usar un link directo de Giphy/Tenor).
--->
-
 <div align="center">
 
-<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dscXQ3MXZrbGxhbzIxcGg5MWl0Ym42NXVucmNidmdtc294OGxyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" /> -->
-<!-- <img src=":https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjNHh4dzJwZDdqMWVzN2ZxaGg2cHlnaTg2NjZ4YnJpb3N2Ymp1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="300" /> -->
+<img src="/assets/Monorosa.gif" width="300" /> 
+<img src="/assets/OsoCode.gif" width="300" /> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **[ espacio reservado para tus GIFs ]**
@@ -115,7 +105,7 @@ Plataforma educativa dinámica enfocada en aprendizaje de idiomas y materiales d
 
 <div align="center">
 
-### 💬 "El código limpio siempre parece que fue escrito por alguien a quien le importa."
+### "El código limpio siempre parece que fue escrito por alguien a quien le importa."
 
 <img src="https://komarev.com/ghpvc/?username=Alexander777444&label=Visitas+al+perfil&color=61DAFB&style=flat" />
 
